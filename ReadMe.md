@@ -29,7 +29,6 @@ Instead of comparing one read against a reference, the pipeline:
 
 ## Project Structure
 
-```text
 bioinformatics-multi-read-variant-calling-pipeline/
 │
 ├── multi_read_variant_calling_pipeline.py
